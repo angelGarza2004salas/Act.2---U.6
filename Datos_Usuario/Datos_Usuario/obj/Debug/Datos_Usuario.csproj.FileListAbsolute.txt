@@ -1,0 +1,11 @@
+C:\Users\axel1\source\Repos\Datos_Usuario\Datos_Usuario\bin\Debug\Datos_Usuario.exe.config
+C:\Users\axel1\source\Repos\Datos_Usuario\Datos_Usuario\bin\Debug\Datos_Usuario.exe
+C:\Users\axel1\source\Repos\Datos_Usuario\Datos_Usuario\bin\Debug\Datos_Usuario.pdb
+C:\Users\axel1\source\Repos\Datos_Usuario\Datos_Usuario\obj\Debug\Datos_Usuario.csproj.AssemblyReference.cache
+C:\Users\axel1\source\Repos\Datos_Usuario\Datos_Usuario\obj\Debug\Datos_Usuario.csproj.SuggestedBindingRedirects.cache
+C:\Users\axel1\source\Repos\Datos_Usuario\Datos_Usuario\obj\Debug\Datos_Usuario.Form1.resources
+C:\Users\axel1\source\Repos\Datos_Usuario\Datos_Usuario\obj\Debug\Datos_Usuario.Properties.Resources.resources
+C:\Users\axel1\source\Repos\Datos_Usuario\Datos_Usuario\obj\Debug\Datos_Usuario.csproj.GenerateResource.cache
+C:\Users\axel1\source\Repos\Datos_Usuario\Datos_Usuario\obj\Debug\Datos_Usuario.csproj.CoreCompileInputs.cache
+C:\Users\axel1\source\Repos\Datos_Usuario\Datos_Usuario\obj\Debug\Datos_Usuario.exe
+C:\Users\axel1\source\Repos\Datos_Usuario\Datos_Usuario\obj\Debug\Datos_Usuario.pdb
